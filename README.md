@@ -10,9 +10,11 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 ---
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
+sumaiya-munavara02022004
+)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumaiyamunavara7@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://sumaiyamunavara.github.io)
 
 ---
 
@@ -34,8 +36,7 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 
 ---
 
-### 🚀 Projects:
-*(Coming soon — will add once portfolio and project links are ready!)*
+
 
 
 
