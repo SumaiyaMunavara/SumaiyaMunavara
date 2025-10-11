@@ -33,6 +33,28 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 
 ---
 
+## 💼 Projects:
+
+- [**Skin Cancer Detection Using CNN**](https://github.com/SumaiyaMunavara/skin-cancer-detection)  
+  developed a cnn model using python and tensorflow to detect and classify skin cancer stages from dermoscopic images.
+
+- [**E-Commerce Sales Insights Dashboard**](https://github.com/SumaiyaMunavara/ecommerce-sales-dashboard)  
+  designed an interactive power bi dashboard to visualize product sales, profit trends, and customer purchasing patterns.
+
+- [**YouTube Trending Data Analysis**](https://github.com/SumaiyaMunavara/youtube-sql-analysis)  
+  performed advanced sql queries on youtube trending datasets to uncover insights into viewer engagement and content performance.
+
+- [**Employee Performance Review System**](https://github.com/SumaiyaMunavara/employee-performance-system)  
+  created a responsive web interface using html, css, and javascript for employee data visualization and review tracking.
+
+- [**Customer Purchase Forecasting**](https://github.com/SumaiyaMunavara/customer-purchase-forecasting)  
+  implemented ml models using python to forecast customer purchases and support business decision-making.
+
+- [**Accident Prevention Alarm for Night Drivers**](https://github.com/SumaiyaMunavara/accident-prevention-alarm)  
+  designed an arduino-based system using ir sensors to detect drowsiness in night drivers and trigger warning alarms.
+
+- [**Fake News Detection System**](https://github.com/SumaiyaMunavara/fake-news-detection)  
+  developed a machine learning model using nlp to identify and classify fake news articles shared on digital media.
 
 
 
