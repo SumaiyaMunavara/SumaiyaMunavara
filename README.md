@@ -76,6 +76,9 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumaiyaMunavara&theme=tokyonight) 
 
 ---
+### 👀 Profile Views  
+
+![Profile views](https://komarev.com/ghpvc/?username=SumaiyaMunavara&label=PROFILE+VIEWS&color=blueviolet&style=flat)
 
 
 
