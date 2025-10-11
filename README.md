@@ -5,7 +5,7 @@
 Dynamic and passionate B.E Electronics and Communication Engineering graduate (2021–2025)  
 with hands-on experience in developing innovative solutions, working on real-time projects,  
 and exploring technologies across software and data domains. Skilled in **C, C++, Python, HTML, CSS, SQL, Excel**,  
-and familiar with **Machine Learning and Automation concepts**.  
+and familiar with **Machine Learning, Power BI, and Automation concepts**.  
 
 ---
 
@@ -24,11 +24,19 @@ and familiar with **Machine Learning and Automation concepts**.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
+
+### 🚀 Projects:
+*(Coming soon — will add once portfolio and project links are ready!)*
+
 
 
 
