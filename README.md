@@ -56,7 +56,7 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 - [**Fake News Detection System**](https://github.com/SumaiyaMunavara/fake-news-detection)  
   developed a machine learning model using nlp to identify and classify fake news articles shared on digital media.
 
-  ---
+---
 
   
 ### 🌱 I’m Currently Learning  
