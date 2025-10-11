@@ -56,14 +56,41 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 - [**Fake News Detection System**](https://github.com/SumaiyaMunavara/fake-news-detection)  
   developed a machine learning model using nlp to identify and classify fake news articles shared on digital media.
 
+  ---
+
+  
+### 🌱 I’m Currently Learning  
+      🐍 Python (Pandas, NumPy, Matplotlib)  
+      📊 Advanced Excel & Power BI for Data Analysis  
+      💻 Front-End Development (JavaScript)  
+      ⚛️ React.js Framework  
+
+---
+
+### 📈 GitHub Stats  
+
+![Sumaiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SumaiyaMunavara&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumaiyaMunavara&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SumaiyaMunavara&theme=tokyonight) 
+
+---
+
+
+
+
+      
+
+ 
+
+  
+
 
 
 
 
 <!--
-🎓 **B.E Electronics and Communication Engineering (2021–2025)**  
-💻 **Aspiring Software Developer | Tech Enthusiast | Problem Solver**
-**SumaiyaMunavara/SumaiyaMunavara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
