@@ -41,7 +41,7 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 - [**E-Commerce Sales Insights Dashboard**](https://github.com/SumaiyaMunavara/E-Commerce-Sales-Insights-Dashboard)  
   Designed an interactive Power BI dashboard to visualize product sales, profit trends, and customer purchasing patterns.
 
-- [**YouTube Trending Data Analysis**](https://github.com/SumaiyaMunavara/youtube-sql-analysis)  
+- [**YouTube Trending Data Analysis**](https://github.com/SumaiyaMunavara/YouTube-Trending-Data-Analysis)  
   Performed advanced SQL queries on YouTube trending datasets to uncover insights into viewer engagement and content performance.
 
 - [**Employee Performance Review System**](https://github.com/SumaiyaMunavara/employee-performance-system)  
