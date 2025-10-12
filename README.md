@@ -35,7 +35,7 @@ and familiar with **Machine Learning, Power BI, and Automation concepts**.
 
 ## 💼 Projects:
 
-- [**Skin Cancer Detection Using CNN**](https://github.com/SumaiyaMunavara/skin-cancer-detection)  
+- [**Skin Cancer Detection Using CNN**](https://github.com/SumaiyaMunavara/skin-cancer-detection)(https://github.com/SumaiyaMunavara/Skin-Cancer-Detection/blob/main/README.md)  
   developed a cnn model using python and tensorflow to detect and classify skin cancer stages from dermoscopic images.
 
 - [**E-Commerce Sales Insights Dashboard**](https://github.com/SumaiyaMunavara/ecommerce-sales-dashboard)  
